@@ -1,2 +1,2 @@
 # learngit
-initial commit file
+This repository is created to learn the basics of git
